@@ -178,82 +178,6 @@ Automated monitoring pipeline for lab equipment/process data, built for real-tim
 
 ---
 
-## 🏆 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🩺 Brain Tumor Diagnosis System
-Medical image classification and segmentation using CNN, U-Net, and transfer learning (VGG16, ResNet50), with Grad-CAM for visual explainability.
-
-**Tech:** `Python` `TensorFlow` `Keras` `OpenCV` `Grad-CAM`
-**Key Features:** Transfer learning • Tumor segmentation • Explainable predictions
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/payalbobade/brain-tumor-diagnosis-cnn)
-[![Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](#)
-
-</td>
-<td width="50%">
-
-### 👥 Employee Attrition Prediction
-ANN-based classifier predicting employee attrition risk, with systematic ablation testing and SHAP-based explainability.
-
-**Tech:** `Python` `TensorFlow/Keras` `SHAP` `Scikit-Learn`
-**Key Features:** Overfitting diagnosis • Ablation testing • Model comparison (ANN vs LR vs RF)
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/payalbobade/employee-attrition-prediction-ann)
-[![Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💳 Credit Card Fraud Detection
-Machine learning pipeline for detecting fraudulent transactions in a highly imbalanced dataset.
-
-**Tech:** `Python` `Scikit-Learn` `Feature Engineering`
-**Key Features:** Class imbalance handling • Precision/Recall optimization • Hyperparameter tuning
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/payalbobade/credit-card-fraud-detection)
-
-</td>
-<td width="50%">
-
-### 📄 Automated Resume Builder
-Web app that parses resumes with spaCy NLP and generates polished, ATS-optimized PDF resumes.
-
-**Tech:** `Python` `Flask` `spaCy` `ReportLab`
-**Key Features:** NLP-based parsing • ATS scoring • PDF generation
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/payalbobade/automated-resume-builder)
-[![Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧪 Lab Automation Monitoring System
-Automated system for monitoring lab equipment/process parameters with real-time tracking and alerting.
-
-**Tech:** `Python` `Automation` `Data Monitoring`
-**Key Features:** Real-time tracking • Automated alerts • Process logging
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/payalbobade/lab-automation-monitoring-system)
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
-
-*💡 Repository badges link to placeholders — update URLs once each repo is live, and swap in real demo links where deployed.*
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -309,6 +233,20 @@ Six-Week Internship (90 Hours) — RCERT, Chandrapur | *1 May 2023 – 15 June 2
 
 **🎯 Open to:** Data Science • Machine Learning Engineering • AI Engineering • MLOps
 **📍 Locations:** Hyderabad • Bangalore • Pune • Mumbai (open to relocation)
+
+---
+
+## ⚡ Fun Facts
+
+<div align="center">
+
+| 🎨 | 💡 |
+|---|---|
+| 🧩 I love debugging models more than writing them from scratch | ☕ Fueled by coffee and Jupyter Notebooks |
+| 📊 I can spend hours perfecting a single visualization | 🌙 Peak productivity hours: late night model training runs |
+| 🎯 Believer in "if you can't explain it simply, you don't understand it" (hence my love for Grad-CAM & SHAP) | 🧠 Currently teaching myself to think in "agents" |
+
+</div>
 
 ---
 
