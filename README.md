@@ -96,11 +96,17 @@ Automated monitoring pipeline for lab equipment/process data, built for real-tim
 ## 📚 Current Learning Journey
 
 **🔹 Foundations** — Python • Statistics • Probability • SQL • MongoDB • Git & GitHub
+
 **🔹 Data Analysis & Visualization** — EDA • Feature Engineering • Power BI • Tableau
+
 **🔹 Machine Learning** — Regression • Classification • Clustering • Ensemble Learning • Scikit-Learn
+
 **🔹 Deep Learning** — ANN • CNN • RNN • LSTM • GRU • Transformers • TensorFlow • Keras
+
 **🔹 Computer Vision & NLP** — OpenCV • Image Segmentation • NLP • Time Series
+
 **🔹 Big Data & Deployment** — PySpark • Hadoop • Flask • Streamlit • Docker • AWS Basics
+
 **🔹 Currently Exploring** — Generative AI • LLMs • Prompt Engineering • RAG • AI Agents • MLOps
 
 <div align="center">
