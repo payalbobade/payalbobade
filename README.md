@@ -1,11 +1,10 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Payal%20Prabhakar%20Bobade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer%20%7C%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
-
 <a href="https://github.com/payalbobade">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Payal;Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+NLP+%7C+Generative+AI;Building+End-to-End%2C+Explainable+AI+Systems" alt="Typing SVG" />
-  
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Payal;Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+NLP+%7C+Generative+AI;Building+End-to-End%2C+Explainable+AI+Systems" alt="Typing SVG" />  
 </a>
+
 
 <br/>
 
