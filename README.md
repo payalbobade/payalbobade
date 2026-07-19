@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/github/followers/payalbobade?label=Followers&style=for-the-badge&color=8A2BE2" alt="followers"/>
 <img src="https://img.shields.io/badge/Open_to_Work-success?style=for-the-badge&logo=ricochet&logoColor=white" alt="open to work"/>
 
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/payal-bobade-0b7725309)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpayal477@gmail.com)
