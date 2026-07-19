@@ -6,8 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Payal;Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+NLP+%7C+Generative+AI;Building+End-to-End%2C+Explainable+AI+Systems" alt="Typing SVG" />  
 </a>
 
-
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=payalbobade&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/payalbobade?label=Followers&style=for-the-badge&color=8A2BE2" alt="followers"/>
